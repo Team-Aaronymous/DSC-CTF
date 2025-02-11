@@ -38,7 +38,7 @@ This allowed us to efficiently search the number within the given time limit.
 
 ### Final Flag
 ```
-dscctf{maths2_prolly_fun_lollz!!!}
+dscctf{y@u_4r3_4_sm4rt_arent_you}
 ```
 
 ---
